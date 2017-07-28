@@ -6,5 +6,7 @@
 
 * [😇 scala-impatient](https://github.com/ragmha/scala-impatient)
 
+* [🦃 Eloquent JavaScript](https://github.com/ragmha/eloquent-js)
+
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
